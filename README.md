@@ -38,7 +38,7 @@ Example Cases
 * 512x768 → Cropped to 512x512
 * 4096x6000 → Resized to 512x512
 
-🛠 Technologies
+Technologies
 * .NET
 * MSTest
 * System.Drawing
