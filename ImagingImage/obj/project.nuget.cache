@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ciQO3q49fJw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\ImagingImage\\ImagingImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amka3\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.5\\microsoft.win32.systemevents.10.0.5.nupkg.sha512",
+    "C:\\Users\\amka3\\.nuget\\packages\\system.drawing.common\\10.0.5\\system.drawing.common.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

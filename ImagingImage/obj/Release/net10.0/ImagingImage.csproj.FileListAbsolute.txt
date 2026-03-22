@@ -1,0 +1,12 @@
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\bin\Release\net10.0\ImagingImage.deps.json
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\bin\Release\net10.0\ImagingImage.dll
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\bin\Release\net10.0\ImagingImage.pdb
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\ImagingImage.csproj.AssemblyReference.cache
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\ImagingImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\ImagingImage.AssemblyInfoInputs.cache
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\ImagingImage.AssemblyInfo.cs
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\ImagingImage.csproj.CoreCompileInputs.cache
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\ImagingImage.dll
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\refint\ImagingImage.dll
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\ImagingImage.pdb
+C:\Users\amka3\source\repos\ImagingImage\ImagingImage\obj\Release\net10.0\ref\ImagingImage.dll

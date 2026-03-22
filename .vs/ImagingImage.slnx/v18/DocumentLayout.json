@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E937391-9E86-2EC5-784F-EA42C60FAC8D}|ImagingImage\\ImagingImage.csproj|c:\\users\\amka3\\source\\repos\\imagingimage\\imagingimage\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E937391-9E86-2EC5-784F-EA42C60FAC8D}|ImagingImage\\ImagingImage.csproj|solutionrelative:imagingimage\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E937391-9E86-2EC5-784F-EA42C60FAC8D}|ImagingImage\\ImagingImage.csproj|c:\\users\\amka3\\source\\repos\\imagingimage\\imagingimage\\imageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E937391-9E86-2EC5-784F-EA42C60FAC8D}|ImagingImage\\ImagingImage.csproj|solutionrelative:imagingimage\\imageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E937391-9E86-2EC5-784F-EA42C60FAC8D}|ImagingImage\\ImagingImage.csproj|c:\\users\\amka3\\source\\repos\\imagingimage\\imagingimage\\imagingimage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E937391-9E86-2EC5-784F-EA42C60FAC8D}|ImagingImage\\ImagingImage.csproj|solutionrelative:imagingimage\\imagingimage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506AE96B-B928-DB4D-5172-2A3A8B60883A}|testings\\testings.csproj|c:\\users\\amka3\\source\\repos\\imagingimage\\testings\\imageservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506AE96B-B928-DB4D-5172-2A3A8B60883A}|testings\\testings.csproj|solutionrelative:testings\\imageservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506AE96B-B928-DB4D-5172-2A3A8B60883A}|testings\\testings.csproj|c:\\users\\amka3\\source\\repos\\imagingimage\\testings\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506AE96B-B928-DB4D-5172-2A3A8B60883A}|testings\\testings.csproj|solutionrelative:testings\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\testings\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "testings\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\testings\\MSTestSettings.cs",
+              "RelativeToolTip": "testings\\MSTestSettings.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:13:54.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImagingImage.csproj",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\ImagingImage\\ImagingImage.csproj",
+              "RelativeDocumentMoniker": "ImagingImage\\ImagingImage.csproj",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\ImagingImage\\ImagingImage.csproj",
+              "RelativeToolTip": "ImagingImage\\ImagingImage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-22T12:13:33.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\testings\\ImageServiceTest.cs",
+              "RelativeDocumentMoniker": "testings\\ImageServiceTest.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\testings\\ImageServiceTest.cs",
+              "RelativeToolTip": "testings\\ImageServiceTest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:13:24.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageResult.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\ImagingImage\\ImageResult.cs",
+              "RelativeDocumentMoniker": "ImagingImage\\ImageResult.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\ImagingImage\\ImageResult.cs",
+              "RelativeToolTip": "ImagingImage\\ImageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:23:10.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\ImagingImage\\ImageService.cs",
+              "RelativeDocumentMoniker": "ImagingImage\\ImageService.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\ImagingImage\\ImagingImage\\ImageService.cs",
+              "RelativeToolTip": "ImagingImage\\ImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:12:58.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
