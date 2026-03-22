@@ -25,8 +25,8 @@ Test
 * Code coverage: 100%
 
 Project Structure
-* ImageProcessorLib → Core logic
-* ImageProcessorTests → Unit tests
+* ImagingImage → Core logic
+* testings → Unit tests
 
 How to Run
 1. Open solution in Visual Studio
